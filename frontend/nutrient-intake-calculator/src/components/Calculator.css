@@ -1,0 +1,33 @@
+
+  /* src/components/Calculator.css */
+
+.calculator-form {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    gap: 10px;
+  }
+  
+  .calculator-form input,
+  .calculator-form select,
+  .calculator-form button {
+    padding: 10px;
+    margin: 5px 0;
+    font-size: 16px;
+  }
+  
+  .results {
+    margin-top: 20px;
+  }
+  
+  .results h2 {
+    margin-top: 20px;
+  }
+
+button {
+  margin: 10px;
+  padding: 10px 20px;
+  font-size: 16px;
+}
+
+  
